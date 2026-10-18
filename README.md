@@ -23,18 +23,18 @@ This is my custom starship.toml config file, designed to enhance the appearance 
 ---
 
 > OverView 
-![](z/starship_alacritty.png)
+![](img/starship_alacritty.png)
 
 
 > visual flags with icons
 `[save][->]` green.
 `[re-do][<-]` red.
-![](z/starship_visual_errors.png)
+![](img/starship_visual_errors.png)
 
 
 > new icons | coloscheme
 
-![](z/starship_icons.png)
+![](img/starship_icons.png)
 
 
 --- 
